@@ -1,0 +1,60 @@
+commit df7170279aea6e335657bf1a9c1f8ab28ddf8e54
+Author: Manoj <manoj.dba2cloud@gmail.com>
+Date:   Sun Oct 18 11:36:45 2020 +0000
+
+    commit from mumbai
+
+commit 84dacacfdc1c1a3d491b98acdb04a84345f9abdf
+Author: Gouti <gouti.kalpagoor@gmail.com>
+Date:   Sun Oct 18 11:34:01 2020 +0000
+
+    commit from london
+
+commit 69d3c743c3fb4472782bda6c4a96639fd0d77443
+Merge: 9432dba fbe69b9
+Author: Manoj <manoj.dba2cloud@gmail.com>
+Date:   Sun Oct 18 11:28:05 2020 +0000
+
+    fixed the issue
+
+commit 9432dbaaf6a737950f7183b7ac40ae3be9ac960e
+Author: Manoj <manoj.dba2cloud@gmail.com>
+Date:   Sun Oct 18 11:20:53 2020 +0000
+
+    commit from membai after commit from london
+
+commit fbe69b9f3d9a591cc8fd1317306b86c87faa9995
+Author: Gouti <gouti.kalpagoor@gmail.com>
+Date:   Sun Oct 18 10:49:43 2020 +0000
+
+    1st commit from London
+
+commit 1e8349ed2934144dc939458a1f601e2bf55f5256
+Author: Manoj <manoj.dba2cloud@gmail.com>
+Date:   Sat Oct 17 11:05:27 2020 +0000
+
+     changes made to existing files
+
+commit c95acabc8bb6113ee79211d2799e1077e6f7e3d3
+Author: Manoj <manoj.dba2cloud@gmail.com>
+Date:   Sat Oct 17 11:01:57 2020 +0000
+
+    next commit after update
+
+commit 2daf38f70abb51e89871fab7a6d4444b0a68e9ce
+Author: Manoj <manoj.dba2cloud@gmail.com>
+Date:   Fri Oct 16 20:09:01 2020 +0000
+
+    THis is fourth commit
+
+commit 6798e523caf54694137d83214c93614a5d5e221f
+Author: Manoj <manojawscloud@gmail.com>
+Date:   Fri Oct 16 20:05:26 2020 +0000
+
+    This is second commit
+
+commit 9b066131df92b33fed06216a37fbaab4365b54b7
+Author: Manoj <manojawscloud@gmail.com>
+Date:   Fri Oct 16 19:57:40 2020 +0000
+
+    this is first commit
