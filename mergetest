@@ -2,4 +2,8 @@ THis is to test merging
 
 this is to test conflicts
 
+<<<<<<< HEAD
 This is Master
+=======
+This is in newbranch
+>>>>>>> newbranch
